@@ -4,11 +4,15 @@ namespace Datatypes
     {
         None,
         Resting,
-        Exploring,
         GatheringFood,
         GoingToWater,
         Eating,
         Drinking,
-        SearchingForMate
+        FindingMate,
+        Mating,
+        Working,
+        FindingTrade,
+        Trading,
+        PlantingFood
     }
 }

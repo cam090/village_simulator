@@ -4,6 +4,7 @@ namespace Datatypes
         Hunger,
         Thirst,
         Age,
+        Tiredness,
         Disease
     }
 }

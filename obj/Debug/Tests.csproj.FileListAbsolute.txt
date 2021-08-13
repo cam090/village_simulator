@@ -1,0 +1,2 @@
+/Users/cam/UnityProjects/village_simulator/obj/Debug/Tests.csprojAssemblyReference.cache
+/Users/cam/UnityProjects/village_simulator/obj/Debug/Tests.csproj.CoreCompileInputs.cache
